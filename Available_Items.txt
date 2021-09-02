@@ -1,0 +1,8 @@
+Inventory has : 
+Amount: (19) 	 Product name: Canon 
+Amount: (5) 	 Product name: HUAWEI 
+Amount: (3) 	 Product name: IPhone 
+Amount: (15) 	 Product name: HP 
+Amount: (5) 	 Product name: EPSON 
+Amount: (0) 	 Product name: ASUS 
+Amount: (1) 	 Product name: Lenovo 

@@ -1,0 +1,5 @@
+Your have bought: 
+Product name: Lenovo Amount: [1] Original unit price: 6500.00 $ 
+Product name: ASUS Amount: [1] Original unit price: 8000.00 $ 
+Product name: Canon Amount: [1] Original unit price: 2800.00 $ 
+The price you paid is: 14265.00 $ 

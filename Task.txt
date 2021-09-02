@@ -1,0 +1,9 @@
+Implement a shopping cart with the following functionality:
+
+    Add products of different types
+    Remove products
+    If there are more than 2 product of the same type, their price should be discounted with 10%
+    If the price of the whole shopping cart exceeds 100 (sum of all different product prices), total price should be discounted with 10%
+    Calculate and print the shopping cart total price
+
+Demonstrate a simple, but professional solution. No user interfaces are expected. Use technologies of your choice.

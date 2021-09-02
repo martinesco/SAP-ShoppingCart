@@ -1,0 +1,7 @@
+CAMERA -> Canon, 2800.00, Black, 20
+PHONE -> HUAWEI, 1700.00, Phantom Black, 5, Mi 11 Lite 5G, 4250 mAh Li-ion
+PHONE -> IPhone, 2000.00, Green, 3, 12 Pro Max, 3687 mAh Li-ion
+PRINTER -> HP, 1200.00, Black, 15, true
+PRINTER -> EPSON, 2400.00, Black, 5, false
+LAPTOP -> ASUS, 8000.00, Red, 1, ROG Zephyrus, Intel Core i9-10980HK, NVIDIA RTX 2080, 32 GB DDR4 3200 MHz
+LAPTOP -> Lenovo, 6500.00, Silver, 2, ThinkPad X1 Fold, Intel Core i5-L16G7, Intel UHD Graphics, 8 GB LPDDR4X 4266 MHz
